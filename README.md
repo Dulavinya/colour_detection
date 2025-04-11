@@ -1,10 +1,10 @@
-# 🎨 Color Detection System
+# Color Detection System
 
 This project implements a real-time **color detection system** using computer vision. The system allows users to detect and identify specific colors in a live webcam feed by clicking on any point in the frame or through preset detection ranges.
 
 ---
 
-## 📌 Features
+## Features
 
 - Detects color from a clicked point in real-time
 - Displays RGB and HEX values
@@ -14,7 +14,7 @@ This project implements a real-time **color detection system** using computer vi
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 - Educational tools for teaching about color theory
 - Helping individuals with color vision deficiency identify colors
